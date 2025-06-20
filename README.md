@@ -36,7 +36,7 @@ A modern, animated, and fully responsive front-end portfolio website built using
 ![Brainwave Screenshot 3](./src/assets/brainwave3.png)
 
 ### 🔹 Feature Section
-![Brainwave Screenshot 1](./src/assets/brainwave1.png)
+![Brainwave Screenshot 1](./src/assets/brainwave2.png)
 
 ---
 
