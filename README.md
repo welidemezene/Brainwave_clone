@@ -1,12 +1,43 @@
-# React + Vite
+# 🧠 Brainwave – AI-Powered Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Brainwave Banner](https://your-image-link-if-any.png)
 
-Currently, two official plugins are available:
+A modern, animated, and fully responsive front-end portfolio website built using **React**, **Tailwind CSS**, and **GSAP**. Inspired by futuristic design and smooth UI/UX interactions, Brainwave showcases front-end skills, project highlights, and professional design principles.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo:** [brainwave-clone-tau.vercel.app](https://brainwave-clone-tau.vercel.app)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ⚡️ Smooth page transitions & scroll animations (GSAP)
+- 🎨 Fully responsive design for mobile, tablet, and desktop
+- 📦 Clean and modular React components
+- 🎥 Hero section with interactive call-to-action
+- 🔄 Optimized animations and performance
+- ✨ Stylish dark UI theme
+
+---
+
+## 🛠 Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **GSAP (GreenSock Animation Platform)**
+- **Vite** (as build tool)
+- **Framer Motion** (optional animations)
+- **Responsive Design** (Mobile-first approach)
+
+---
+
+## 📸 Screenshots
+
+![Brainwave Screenshot](https://your-screenshot-link1.png)
+*Animated Hero Section*
+
+![Brainwave Screenshot](https://your-screenshot-link2.png)
+*Project Feature Section*
+
+---
+
+
