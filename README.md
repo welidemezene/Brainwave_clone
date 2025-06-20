@@ -1,6 +1,6 @@
 # 🧠 Brainwave – AI-Powered Portfolio Website
 
-![Brainwave Banner](https://your-image-link-if-any.png)
+![Brainwave Banner](./src/assets/brainwave3.png)
 
 A modern, animated, and fully responsive front-end portfolio website built using **React**, **Tailwind CSS**, and **GSAP**. Inspired by futuristic design and smooth UI/UX interactions, Brainwave showcases front-end skills, project highlights, and professional design principles.
 
@@ -32,11 +32,11 @@ A modern, animated, and fully responsive front-end portfolio website built using
 
 ## 📸 Screenshots
 
-![Brainwave Screenshot](https://your-screenshot-link1.png)
-*Animated Hero Section*
+### 🔹 Animated Hero Section
+![Brainwave Screenshot 3](./src/assets/brainwave3.png)
 
-![Brainwave Screenshot](https://your-screenshot-link2.png)
-*Project Feature Section*
+### 🔹 Feature Section
+![Brainwave Screenshot 1](./src/assets/brainwave1.png)
 
 ---
 
